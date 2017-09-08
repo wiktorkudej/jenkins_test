@@ -1,2 +1,2 @@
 <?php
-echo 'init';
+echo 'init', PHP_EOL;
